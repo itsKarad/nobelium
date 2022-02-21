@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/Aditya%20**Karad**.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&widths=100&heights=100', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://i.imgur.com/TkbqL6J.png', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/itsKarad',
   seo: {
     keywords: [ "Aditya Karad", "Software engineering blog","Engineering blog", "Development blog", "IITian blog","Tech blog", "itsKarad","IIT", "Aditya", "IIT Roorkee", "Karad", "Coding blog", 'Blog', 'Notion CMS blog'],
