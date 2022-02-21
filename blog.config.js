@@ -1,25 +1,25 @@
 const BLOG = {
-  title: 'Blog',
+  title: "Aditya Karad's Blog",
   author: 'Aditya Karad',
   email: 'adityakarad28@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: 'Tech. Code. Interesting things.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'auto', // ['light', 'dark', 'auto'],
-  font: 'sans-serif', // ['sans-serif', 'serif']
+  appearance: 'light', // ['light', 'dark', 'auto'],
+  font: 'serif', // ['sans-serif', 'serif']
   lightBackground: '#EFEFEF', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#212121', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // If leave this empty, current year will be used.
-  postsPerPage: 7,
-  sortByDate: false,
+  since: 2022, // If leave this empty, current year will be used.
+  postsPerPage: 10,
+  sortByDate: true,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/Aditya%20**Karad**.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&widths=100&heights=100', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/itsKarad',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: [ "Aditya Karad", "Tech blog", "itsKarad","IIT", "Aditya", "IIT Roorkee", "Karad", "Coding blog", 'Blog', 'Notion CMS blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
