@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Aditya Karad',
   email: 'adityakarad28@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: 'Tech. Code. Interesting things.',
+  description: 'I am Aditya Karad, final year undergraduate at ⚡️ IIT Roorkee. This is my blog, where I write about tech, code, development, computer science, game theory and trends in the world that interest me. I am interested in software engineering. I go by the name of itsKarad on the internet.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -19,7 +19,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app/Aditya%20**Karad**.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-black.svg&widths=100&heights=100', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/itsKarad',
   seo: {
-    keywords: [ "Aditya Karad", "Tech blog", "itsKarad","IIT", "Aditya", "IIT Roorkee", "Karad", "Coding blog", 'Blog', 'Notion CMS blog'],
+    keywords: [ "Aditya Karad", "Software engineering blog","Engineering blog", "Development blog", "IITian blog","Tech blog", "itsKarad","IIT", "Aditya", "IIT Roorkee", "Karad", "Coding blog", 'Blog', 'Notion CMS blog'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
