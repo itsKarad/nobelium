@@ -40,6 +40,7 @@
 html {
   --scrollbarBG: #ffffff00;
   --thumbBG: #b8b8b8;
+  font-family: "Helvetica" !important;
 }
 body::-webkit-scrollbar {
   width: 5px;
